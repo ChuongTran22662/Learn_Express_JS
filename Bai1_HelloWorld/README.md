@@ -1,0 +1,3 @@
+- dynamic web server : sử dụng cho web logic , có sử dụng database
+- static web server : sử dụng cho các trang web tĩnh , chỉ có html,css,js
+- get request : lấy dữ liệu về và hiển thị lên trình duyệt
